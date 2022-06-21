@@ -1,0 +1,15 @@
+C:\balta\Cronometro\Stopwwatch\bin\Debug\net6.0\Stopwwatch.exe
+C:\balta\Cronometro\Stopwwatch\bin\Debug\net6.0\Stopwwatch.deps.json
+C:\balta\Cronometro\Stopwwatch\bin\Debug\net6.0\Stopwwatch.runtimeconfig.json
+C:\balta\Cronometro\Stopwwatch\bin\Debug\net6.0\Stopwwatch.dll
+C:\balta\Cronometro\Stopwwatch\bin\Debug\net6.0\Stopwwatch.pdb
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\Stopwwatch.csproj.AssemblyReference.cache
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\Stopwwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\Stopwwatch.AssemblyInfoInputs.cache
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\Stopwwatch.AssemblyInfo.cs
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\Stopwwatch.csproj.CoreCompileInputs.cache
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\Stopwwatch.dll
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\refint\Stopwwatch.dll
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\Stopwwatch.pdb
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\Stopwwatch.genruntimeconfig.cache
+C:\balta\Cronometro\Stopwwatch\obj\Debug\net6.0\ref\Stopwwatch.dll
